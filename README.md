@@ -4,7 +4,7 @@
 
 This course contains thousands of challenges for Python, each challenge is a small Python project with detailed instructions and solutions. You can practice your Python skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
 
-![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-whitesmoke?style=for-the-badge&logo=python)
 
 
 ## Scenarios
