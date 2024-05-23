@@ -9,8 +9,8 @@ This course contains thousands of challenges for Python, each challenge is a sma
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                   |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |    0001 | 🎯 Elemental Harmony with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271604'>Start Challenge</a> |
 |    0002 | 🎯 Mystic Numerical Manipulations in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271575'>Start Challenge</a> |
 |    0003 | 🎯 Python Strings Expedition                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271595'>Start Challenge</a> |
@@ -1033,6 +1033,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
