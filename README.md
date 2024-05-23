@@ -1,6 +1,6 @@
-# Thousands Python Challenges
+# 1000+ Python Challenges
 
-![Thousands Python Challenges](https://cover-creator.labex.io/thousands-python-challenges.png)
+![1000+ Python Challenges](https://cover-creator.labex.io/thousands-python-challenges.png)
 
 This course contains thousands of challenges for Python, each challenge is a small Python project with detailed instructions and solutions. You can practice your Python skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
 
@@ -9,8 +9,8 @@ This course contains thousands of challenges for Python, each challenge is a sma
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                   |
-|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                     | Difficulty   | Practice                                                                   |
+|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |    0001 | 🎯 Elemental Harmony with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271604'>Start Challenge</a> |
 |    0002 | 🎯 Mystic Numerical Manipulations in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271575'>Start Challenge</a> |
 |    0003 | 🎯 Python Strings Expedition                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271595'>Start Challenge</a> |
