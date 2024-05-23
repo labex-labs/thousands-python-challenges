@@ -9,7 +9,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |    0001 | 🎯 Elemental Harmony with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271604'>Start Challenge</a> |
 |    0002 | 🎯 Mystic Numerical Manipulations in Python              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271575'>Start Challenge</a> |
@@ -1030,4 +1030,9 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    1017 | 🎯 Build a Web Based TCP Port Scanner                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299505'>Start Challenge</a> |
 |    1018 | 🎯 Simple Handwritten Character Recognition Classifie... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300256'>Start Challenge</a> |
 |    1019 | 🎯 Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299451'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
 
