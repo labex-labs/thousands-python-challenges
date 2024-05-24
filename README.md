@@ -1,6 +1,6 @@
 # 1000+ Python Challenges
 
-![1000+ Python Challenges](https://cover-creator.labex.io/thousands-python-challenges.png)
+![1000+ Python Challenges](https://cover-creator.appbot.io/thousands-python-challenges.png)
 
 This course contains thousands of challenges for Python, each challenge is a small Python project with detailed instructions and solutions. You can practice your Python skills by solving these challenges, improve your problem-solving skills, and learn how to write clean and efficient code.
 
@@ -1033,7 +1033,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 
 ## More
 
-- 🔗 [Python Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Python Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Python Free Tutorials](https://github.com/labex-labs/python-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
 
