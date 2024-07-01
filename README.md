@@ -206,7 +206,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0193 | 🎯 Smallest N-Digit Multiple: Programming Problem        | ★★☆          | <a target='_blank' href='https://labex.io/labs/108577'>Start Challenge</a> |
 |    0194 | 🎯 Find Greatest Common Divisor                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108393'>Start Challenge</a> |
 |    0195 | 🎯 Following Number Pattern                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56209'>Start Challenge</a>  |
-|    0196 | 🎯 One Cut Into Two                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300243'>Start Challenge</a> |
+|    0196 | 🎯 One Cut Into Two (Challenge)                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300243'>Start Challenge</a> |
 |    0197 | 🎯 School Grading System                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8462'>Start Challenge</a>   |
 |    0198 | 🎯 Rearrange Letters for Palindrome                      | ★★★          | <a target='_blank' href='https://labex.io/labs/108537'>Start Challenge</a> |
 |    0199 | 🎯 Calculate Principal Interest Time                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108570'>Start Challenge</a> |
@@ -315,7 +315,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0302 | 🎯 Count Substring Repetitions                           | ★★☆          | <a target='_blank' href='https://labex.io/labs/108374'>Start Challenge</a> |
 |    0303 | 🎯 Consecutive Number Sum Checker                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/108284'>Start Challenge</a> |
 |    0304 | 🎯 Calculating Partitions of a Number                    | ★★★          | <a target='_blank' href='https://labex.io/labs/108489'>Start Challenge</a> |
-|    0305 | 🎯 Generating a Battle Report                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302730'>Start Challenge</a> |
+|    0305 | 🎯 Generating a Battle Report (Challenge)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302730'>Start Challenge</a> |
 |    0306 | 🎯 N Minimum Elements (Challenge)                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13163'>Start Challenge</a>  |
 |    0307 | 🎯 N Max Elements (Challenge)                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13156'>Start Challenge</a>  |
 |    0308 | 🎯 Check if String is Identical                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108404'>Start Challenge</a> |
@@ -339,7 +339,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0326 | 🎯 Count Prefix Frequency in List                        | ★★★          | <a target='_blank' href='https://labex.io/labs/108501'>Start Challenge</a> |
 |    0327 | 🎯 String Anagram Checker                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108211'>Start Challenge</a> |
 |    0328 | 🎯 Leap Year or Common Year (Challenge)                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302740'>Start Challenge</a> |
-|    0329 | 🎯 Polybius Square Encryption in Python                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302700'>Start Challenge</a> |
+|    0329 | 🎯 Polybius Square Encryption in Python (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302700'>Start Challenge</a> |
 |    0330 | 🎯 Visitor Tracking Embassy Management                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8696'>Start Challenge</a>   |
 |    0331 | 🎯 Implementing Column Permutation Encryption in Pyth... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302704'>Start Challenge</a> |
 |    0332 | 🎯 Implementing Rail Fence Cipher in Python (Challeng... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302757'>Start Challenge</a> |
@@ -373,7 +373,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0360 | 🎯 Find Maximum List Value Based on Function (Challen... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13154'>Start Challenge</a>  |
 |    0361 | 🎯 Balanced Parentheses Clusters                         | ★★★          | <a target='_blank' href='https://labex.io/labs/108487'>Start Challenge</a> |
 |    0362 | 🎯 Count Duplicate Characters                            | ★★☆          | <a target='_blank' href='https://labex.io/labs/108309'>Start Challenge</a> |
-|    0363 | 🎯 Convert JSON to CSV                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302706'>Start Challenge</a> |
+|    0363 | 🎯 Convert JSON to CSV (Challenge)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302706'>Start Challenge</a> |
 |    0364 | 🎯 Compute Area of a Circle                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108213'>Start Challenge</a> |
 |    0365 | 🎯 Print Full Name                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108516'>Start Challenge</a> |
 |    0366 | 🎯 After Specified Item                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56139'>Start Challenge</a>  |
@@ -492,7 +492,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0479 | 🎯 Smallest Missing Positive Integer                     | ★★★          | <a target='_blank' href='https://labex.io/labs/108573'>Start Challenge</a> |
 |    0480 | 🎯 Generating Natural Numbers Using List Comprehensio... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/108462'>Start Challenge</a> |
 |    0481 | 🎯 Anagram Detection Challenge                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13134'>Start Challenge</a>  |
-|    0482 | 🎯 Split List into Chunks                                | ★★★          | <a target='_blank' href='https://labex.io/labs/108336'>Start Challenge</a> |
+|    0482 | 🎯 Divide List into Sublists                             | ★★★          | <a target='_blank' href='https://labex.io/labs/108336'>Start Challenge</a> |
 |    0483 | 🎯 Simplify Date and Time Handling                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/54'>Start Challenge</a>     |
 |    0484 | 🎯 Remove Items From Set at Once                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56346'>Start Challenge</a>  |
 |    0485 | 🎯 Count Elements Frequency                              | ★★☆          | <a target='_blank' href='https://labex.io/labs/108303'>Start Challenge</a> |
@@ -648,7 +648,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0635 | 🎯 Odd Index Items                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56314'>Start Challenge</a>  |
 |    0636 | 🎯 Random Integers Which Is Divisible By                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56329'>Start Challenge</a>  |
 |    0637 | 🎯 Collection is empty (Challenge)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13137'>Start Challenge</a>  |
-|    0638 | 🎯 Calculating Laser Weapon Damage                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302696'>Start Challenge</a> |
+|    0638 | 🎯 Calculating Laser Weapon Damage (Challenge)           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302696'>Start Challenge</a> |
 |    0639 | 🎯 a List Into Its Square                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56133'>Start Challenge</a>  |
 |    0640 | 🎯 List in Reverse Order Using a Loop                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56257'>Start Challenge</a>  |
 |    0641 | 🎯 Greatest Common Divisor (Challenge)                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13114'>Start Challenge</a>  |
@@ -730,7 +730,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0717 | 🎯 Pad String to Specified Length in Python (Challeng... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13171'>Start Challenge</a>  |
 |    0718 | 🎯 All Toyota Cars Details                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56143'>Start Challenge</a>  |
 |    0719 | 🎯 Count Data Types                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/4912'>Start Challenge</a>   |
-|    0720 | 🎯 Extracting User Input Information                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302724'>Start Challenge</a> |
+|    0720 | 🎯 Extracting User Input Information (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302724'>Start Challenge</a> |
 |    0721 | 🎯 School Exam Analysis                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/47124'>Start Challenge</a>  |
 |    0722 | 🎯 Driving a Car                                         | ★★☆          | <a target='_blank' href='https://labex.io/labs/56'>Start Challenge</a>     |
 |    0723 | 🎯 Randomize List Order in Python (Challenge)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13181'>Start Challenge</a>  |
@@ -743,7 +743,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0730 | 🎯 Dictionary Into Json Format                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56165'>Start Challenge</a>  |
 |    0731 | 🎯 Remove and Add Item in a List                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56342'>Start Challenge</a>  |
 |    0732 | 🎯 Fibonacci Series Up to Terms                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56195'>Start Challenge</a>  |
-|    0733 | 🎯 Calculate Defective Rate for Clone Human              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302694'>Start Challenge</a> |
+|    0733 | 🎯 Calculate Defective Rate for Clone Human (Challeng... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302694'>Start Challenge</a> |
 |    0734 | 🎯 Whether Following Json Is Valid                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56440'>Start Challenge</a>  |
 |    0735 | 🎯 Extract Numbers from Text File (Challenge)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302771'>Start Challenge</a> |
 |    0736 | 🎯 Number is Prime (Challenge)                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13140'>Start Challenge</a>  |
@@ -821,7 +821,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0808 | 🎯 Fire Station Alert System                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8702'>Start Challenge</a>   |
 |    0809 | 🎯 Two Lists Into a Dictionary                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56420'>Start Challenge</a>  |
 |    0810 | 🎯 Operations With the OS Module (Challenge)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302746'>Start Challenge</a> |
-|    0811 | 🎯 Automatic Spaceship Detection Script                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302690'>Start Challenge</a> |
+|    0811 | 🎯 Automatic Spaceship Detection Script (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302690'>Start Challenge</a> |
 |    0812 | 🎯 School Attendance Tracker                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8464'>Start Challenge</a>   |
 |    0813 | 🎯 Building Real-Time Chatroom with Flask and Redis      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299464'>Start Challenge</a> |
 |    0814 | 🎯 Magic Methods To Operate Strings                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/8004'>Start Challenge</a>   |
@@ -842,7 +842,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0829 | 🎯 Create Python Iterators                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17'>Start Challenge</a>     |
 |    0830 | 🎯 Python Class Inheritance                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7799'>Start Challenge</a>   |
 |    0831 | 🎯 Person Data Extraction                                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67'>Start Challenge</a>     |
-|    0832 | 🎯 Course Management and Data Comparison                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302712'>Start Challenge</a> |
+|    0832 | 🎯 Course Management and Data Comparison (Challenge)     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302712'>Start Challenge</a> |
 |    0833 | 🎯 Parallel Python Processing with Multiprocessing       | ★★☆          | <a target='_blank' href='https://labex.io/labs/7823'>Start Challenge</a>   |
 |    0834 | 🎯 Math Expression Evaluator                             | ★★☆          | <a target='_blank' href='https://labex.io/labs/8739'>Start Challenge</a>   |
 |    0835 | 🎯 Sort Json Keys                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56380'>Start Challenge</a>  |
@@ -855,7 +855,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0842 | 🎯 Currency Exchange with Python                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13395'>Start Challenge</a>  |
 |    0843 | 🎯 Real-time Data Processing System                      | ★★☆          | <a target='_blank' href='https://labex.io/labs/15040'>Start Challenge</a>  |
 |    0844 | 🎯 Working With JSON Files                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/133'>Start Challenge</a>    |
-|    0845 | 🎯 Automatic Registration of Subclasses                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302688'>Start Challenge</a> |
+|    0845 | 🎯 Automatic Registration of Subclasses (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302688'>Start Challenge</a> |
 |    0846 | 🎯 Use tqdm Elegantly                                    | ★★★          | <a target='_blank' href='https://labex.io/labs/67180'>Start Challenge</a>  |
 |    0847 | 🎯 Handling Dates in Any Year (Challenge)                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302732'>Start Challenge</a> |
 |    0848 | 🎯 Unleash the Potential of Unicodedata                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177191'>Start Challenge</a> |
@@ -898,7 +898,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0885 | 🎯 Implement Hash Table with Key-Value Operations        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268803'>Start Challenge</a> |
 |    0886 | 🎯 String Compression Challenge                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268800'>Start Challenge</a> |
 |    0887 | 🎯 Missing Integer in Array                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268877'>Start Challenge</a> |
-|    0888 | 🎯 COVID-19 Data Analysis with Python                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302714'>Start Challenge</a> |
+|    0888 | 🎯 COVID-19 Data Analysis with Python (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302714'>Start Challenge</a> |
 |    0889 | 🎯 Reverse Order Number Addition in Python               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268840'>Start Challenge</a> |
 |    0890 | 🎯 Partition Linked List Around Value                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268846'>Start Challenge</a> |
 |    0891 | 🎯 Find Loop Start                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268842'>Start Challenge</a> |
@@ -1025,11 +1025,10 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    1012 | 🎯 Mastering Linear Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |    1013 | 🎯 NumPy Dot Product                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8737'>Start Challenge</a>   |
 |    1014 | 🎯 Understanding Metrics and Scoring                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
-|    1015 | 🎯 Implementing Minkowski Distance Metric                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300239'>Start Challenge</a> |
-|    1016 | 🎯 Build URL Shortener with Flask MySQL (Challenge)      | ★★★          | <a target='_blank' href='https://labex.io/labs/299511'>Start Challenge</a> |
-|    1017 | 🎯 Build a Web Based TCP Port Scanner (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299505'>Start Challenge</a> |
-|    1018 | 🎯 Simple Handwritten Character Recognition Classifie... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300256'>Start Challenge</a> |
-|    1019 | 🎯 Deploying MobileNet With TensorFlow.js and Flask (... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299451'>Start Challenge</a> |
+|    1015 | 🎯 Build URL Shortener with Flask MySQL (Challenge)      | ★★★          | <a target='_blank' href='https://labex.io/labs/299511'>Start Challenge</a> |
+|    1016 | 🎯 Build a Web Based TCP Port Scanner (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299505'>Start Challenge</a> |
+|    1017 | 🎯 Simple Handwritten Character Recognition Classifie... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300256'>Start Challenge</a> |
+|    1018 | 🎯 Deploying MobileNet With TensorFlow.js and Flask (... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299451'>Start Challenge</a> |
 
 ## More
 
