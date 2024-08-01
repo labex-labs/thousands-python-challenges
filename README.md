@@ -38,7 +38,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0025 | 🎯 Miles to km (Challenge)                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13160'>Start Challenge</a>  |
 |    0026 | 🎯 Enchanted Python Scope Secrets                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271587'>Start Challenge</a> |
 |    0027 | 🎯 The Recursive Arena Battle                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271584'>Start Challenge</a> |
-|    0028 | 🎯 Comprehensive Python Hello                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/61'>Start Challenge</a>     |
+|    0028 | 🎯 Print Hello Python                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/61'>Start Challenge</a>     |
 |    0029 | 🎯 Printing Unicode Hello World                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185360'>Start Challenge</a> |
 |    0030 | 🎯 Control Your Virtual Environment                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/128'>Start Challenge</a>    |
 |    0031 | 🎯 Text Tokenization with Python (Challenge)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302773'>Start Challenge</a> |
@@ -800,7 +800,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0787 | 🎯 Send SOS Signal                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/211439'>Start Challenge</a> |
 |    0788 | 🎯 Number Generator Expression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/16'>Start Challenge</a>     |
 |    0789 | 🎯 Python Rate Limiter Implementation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256145'>Start Challenge</a> |
-|    0790 | 🎯 Mastering Python Exception Handling                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/63'>Start Challenge</a>     |
+|    0790 | 🎯 Python Exception Handling Challenge                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/63'>Start Challenge</a>     |
 |    0791 | 🎯 Practice Assignment Expressions                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/3731'>Start Challenge</a>   |
 |    0792 | 🎯 Statistical Analysis of JSON Data (Challenge)         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/302769'>Start Challenge</a> |
 |    0793 | 🎯 Count Grouped Elements (Challenge)                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13076'>Start Challenge</a>  |
@@ -910,7 +910,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0897 | 🎯 Linked List Data Structure                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268844'>Start Challenge</a> |
 |    0898 | 🎯 Deleting Middle Node in Python Linked List            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268841'>Start Challenge</a> |
 |    0899 | 🎯 Coin Change Min                                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268854'>Start Challenge</a> |
-|    0900 | 🎯 Set Of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
+|    0900 | 🎯 Set of Stacks                                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268886'>Start Challenge</a> |
 |    0901 | 🎯 Find Next Largest Smallest Binary Numbers             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268815'>Start Challenge</a> |
 |    0902 | 🎯 Unique Character String Validation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268810'>Start Challenge</a> |
 |    0903 | 🎯 Efficient List Operations in Python                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/268851'>Start Challenge</a> |
