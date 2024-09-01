@@ -813,7 +813,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0800 | 🎯 Group List Elements (Challenge)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13117'>Start Challenge</a>  |
 |    0801 | 🎯 Visualize Monthly Soap Sales Data                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56148'>Start Challenge</a>  |
 |    0802 | 🎯 Display It Using Subplot                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/56169'>Start Challenge</a>  |
-|    0803 | 🎯 Mastering the Decimal Module                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177193'>Start Challenge</a> |
+|    0803 | 🎯 The Decimal Module                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177193'>Start Challenge</a> |
 |    0804 | 🎯 Class and Method                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/69'>Start Challenge</a>     |
 |    0805 | 🎯 List Union Based on Function (Challenge)              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13205'>Start Challenge</a>  |
 |    0806 | 🎯 Get Local Time                                        | ★★☆          | <a target='_blank' href='https://labex.io/labs/12265'>Start Challenge</a>  |
@@ -990,7 +990,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0977 | 🎯 Exploring the Where Function                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/53379'>Start Challenge</a>  |
 |    0978 | 🎯 The Powerful Query Method                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/29827'>Start Challenge</a>  |
 |    0979 | 🎯 Linux System Monitor Using Tkinter (Challenge)        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299469'>Start Challenge</a> |
-|    0980 | 🎯 Mastering String Operations                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
+|    0980 | 🎯 String Operations                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/148882'>Start Challenge</a> |
 |    0981 | 🎯 Build Aliens Game Using Pygame (Challenge)            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299454'>Start Challenge</a> |
 |    0982 | 🎯 Understanding Validation Curves                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106940'>Start Challenge</a> |
 |    0983 | 🎯 Building a Tic-Tac-Toe Using Pygame (Challenge)       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299476'>Start Challenge</a> |
@@ -1000,7 +1000,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0987 | 🎯 DataFrame Math Operations                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/172040'>Start Challenge</a> |
 |    0988 | 🎯 Analyzing Sales and Discounts                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/23740'>Start Challenge</a>  |
 |    0989 | 🎯 Building a Network Scanner in Python (Challenge)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299457'>Start Challenge</a> |
-|    0990 | 🎯 Mastering Decision Trees                              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
+|    0990 | 🎯 Decision Trees                                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92597'>Start Challenge</a>  |
 |    0991 | 🎯 Working with Series                                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67550'>Start Challenge</a>  |
 |    0992 | 🎯 Clustering and Insights                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/198286'>Start Challenge</a> |
 |    0993 | 🎯 Optimizing Gradient Descent for Global Optimizatio... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300228'>Start Challenge</a> |
@@ -1012,7 +1012,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    0999 | 🎯 Sales Data Comparison                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/92717'>Start Challenge</a>  |
 |    1000 | 🎯 Detect Flappy Bird in Videos with OpenCV              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299465'>Start Challenge</a> |
 |    1001 | 🎯 NumPy Array Operation                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8708'>Start Challenge</a>   |
-|    1002 | 🎯 Mastering naive bayes                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
+|    1002 | 🎯 Naive Bayes Classification                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/250427'>Start Challenge</a> |
 |    1003 | 🎯 Gravitational Simulation of Earth and Super Jupite... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299467'>Start Challenge</a> |
 |    1004 | 🎯 Filtering and Indexing with CSV                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67543'>Start Challenge</a>  |
 |    1005 | 🎯 Sorting and Searching                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/154566'>Start Challenge</a> |
@@ -1022,7 +1022,7 @@ This course contains thousands of challenges for Python, each challenge is a sma
 |    1009 | 🎯 Random Number Generation with NumPy                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/34635'>Start Challenge</a>  |
 |    1010 | 🎯 Make NumPy Array Your Shape                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8687'>Start Challenge</a>   |
 |    1011 | 🎯 Predicting Flower Types with Nearest Neighbors        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/256147'>Start Challenge</a> |
-|    1012 | 🎯 Mastering Linear Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
+|    1012 | 🎯 Linear Regression                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185171'>Start Challenge</a> |
 |    1013 | 🎯 NumPy Dot Product                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8737'>Start Challenge</a>   |
 |    1014 | 🎯 Understanding Metrics and Scoring                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/185172'>Start Challenge</a> |
 |    1015 | 🎯 Build URL Shortener with Flask MySQL (Challenge)      | ★★★          | <a target='_blank' href='https://labex.io/labs/299511'>Start Challenge</a> |
